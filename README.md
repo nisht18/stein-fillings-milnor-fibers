@@ -27,4 +27,4 @@ Below are the direct links to the individual files, papers, and calculations tra
 
 ### 🧮 Mathematical Understanding & Theory Tasks
 * **[Local Algebra and Isolated Singularities](LAIS_TeX.pdf)** 
-* *(Optional: Add links to other direct calculation text files here)*
+* **[The Mechanics of a Blow-Up](BU_TeX.pdf)**
