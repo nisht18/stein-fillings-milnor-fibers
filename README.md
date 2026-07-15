@@ -26,5 +26,5 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **[Section I](Introductory_Notes.pdf)** 
 
 ### 🧮 Mathematical Understanding & Theory Tasks
-* **[Open Books & Lefschetz Fibrations](./open_books_lefschetz_fibrations.md)** – A worked-out exploration factorizing open book monodromy to solidify geometric understanding.
+* **[Local Algebra and Isolated Singularities](LAIS_TeX.pdf)** 
 * *(Optional: Add links to other direct calculation text files here)*
