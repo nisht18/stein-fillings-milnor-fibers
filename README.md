@@ -23,8 +23,7 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **Coming Soon** – The comprehensive typeset written summary detailing mathematical derivations, deformation structures, and bounds derived from singularity theory is currently being finalized.
 
 ### 📝 Literature & Framework Notes
-* **[Plamenevskaya-Starkston Summary](./plamenevskaya_starkston_summary.md)** – Detailed notes on the algebraic constraints on Stein fillings of contact 4-manifolds.
-* *(Optional: Click 'Add file' -> 'Create new file' to make another `.md` file, then add it as a bullet here)*
+* **[Section I](Introductory_Notes.pdf)** 
 
 ### 🧮 Mathematical Understanding & Theory Tasks
 * **[Open Books & Lefschetz Fibrations](./open_books_lefschetz_fibrations.md)** – A worked-out exploration factorizing open book monodromy to solidify geometric understanding.
