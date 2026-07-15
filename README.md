@@ -4,6 +4,8 @@ An academic repository documenting independent research, literature synthesis, a
 
 This repository serves as a reproducible archive of my mathematical preparation for graduate-level research.
 
+---
+
 ## 🔬 Core Research Focus
 
 This project explores the intersection of geometric topology and singularity theory through three main pillars:
@@ -13,10 +15,17 @@ This project explores the intersection of geometric topology and singularity the
 
 ---
 
-## 📂 Repository Architecture
+## 📂 Research Documents & Files
 
-For a guided tour of the calculations, notes, and derivations, explore the following directories:
+Below are the direct links to the individual files, papers, and calculations tracking my progress:
 
-* **Notes**: Literature synthesis, summaries of foundational papers, and structural breakdowns of advanced texts.
-* **Theory**: Hands-on mathematical study, explicit calculations of monodromy factorizations, and solutions to targeted problems to solidify theoretical concepts.
-* **Docs`**: Formal typeset written summaries, mathematical scratchpad work, and topological diagrams.
+### 📄 Formal Summaries & Research Papers
+* **Coming Soon** – The comprehensive typeset written summary detailing mathematical derivations, deformation structures, and bounds derived from singularity theory is currently being finalized.
+
+### 📝 Literature & Framework Notes
+* **[Plamenevskaya-Starkston Summary](./plamenevskaya_starkston_summary.md)** – Detailed notes on the algebraic constraints on Stein fillings of contact 4-manifolds.
+* *(Optional: Click 'Add file' -> 'Create new file' to make another `.md` file, then add it as a bullet here)*
+
+### 🧮 Mathematical Understanding & Theory Tasks
+* **[Open Books & Lefschetz Fibrations](./open_books_lefschetz_fibrations.md)** – A worked-out exploration factorizing open book monodromy to solidify geometric understanding.
+* *(Optional: Add links to other direct calculation text files here)*
