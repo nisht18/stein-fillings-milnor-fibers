@@ -17,6 +17,6 @@ This project explores the intersection of geometric topology and singularity the
 
 For a guided tour of the calculations, notes, and derivations, explore the following directories:
 
-* **`/notes`**: Literature synthesis, summaries of foundational papers, and structural breakdowns of advanced texts.
-* **`/theory`**: Hands-on mathematical study, explicit calculations of monodromy factorizations, and solutions to targeted problems to solidify theoretical concepts.
-* **`/docs`**: Formal typeset written summaries, mathematical scratchpad work, and topological diagrams.
+* **Notes**: Literature synthesis, summaries of foundational papers, and structural breakdowns of advanced texts.
+* **Theory**: Hands-on mathematical study, explicit calculations of monodromy factorizations, and solutions to targeted problems to solidify theoretical concepts.
+* **Docs`**: Formal typeset written summaries, mathematical scratchpad work, and topological diagrams.
