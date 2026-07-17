@@ -23,7 +23,8 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **Coming Soon** – The comprehensive typeset written summary detailing mathematical derivations, deformation structures, and bounds derived from singularity theory is currently being finalized.
 
 ### 📝 Literature & Framework Notes
-* **[Section I](Introductory_Notes.pdf)** 
+* **[Section 1 - Introduction](Introductory_Notes.pdf)**
+*  **[Section 2.1 - Resolutions & Smoothings](2.1_Notes.pdf)**
 
 ### 🧮 Mathematical Understanding & Theory Tasks
 * **[Local Algebra and Isolated Singularities](LAIS_TeX.pdf)** 
