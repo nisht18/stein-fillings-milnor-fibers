@@ -29,4 +29,4 @@ Below are the direct links to the individual files, papers, and calculations tra
 ### 🧮 Mathematical Understanding & Theory Tasks
 * **[Local Algebra and Isolated Singularities](LAIS_TeX.pdf)** 
 * **[The Mechanics of a Blow-Up](BU_TeX.pdf)**
-* **[Resolutions, Matrices, and Contractibility](RMC_TeX.pdf)
+* **[Resolutions, Matrices, and Contractibility](RMC_TeX.pdf)**
