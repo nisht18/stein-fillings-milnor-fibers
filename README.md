@@ -30,3 +30,4 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **[Local Algebra and Isolated Singularities](LAIS_TeX.pdf)** 
 * **[The Mechanics of a Blow-Up](BU_TeX.pdf)**
 * **[Resolutions, Matrices, and Contractibility](RMC_TeX.pdf)**
+* **[Artin's Rational Singularities & the Fundamental Cycle](AS_FC.pdf)
