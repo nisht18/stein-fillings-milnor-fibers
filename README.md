@@ -20,7 +20,7 @@ This project explores the intersection of geometric topology and singularity the
 Below are the direct links to the individual files, papers, and calculations tracking my progress:
 
 ### 📄 Formal Summaries & Research Papers
-* **Coming Soon** – The comprehensive typeset written summary detailing mathematical derivations, deformation structures, and bounds derived from singularity theory is currently being finalized.
+* **Coming Soon** – The comprehensive typeset written summary detailing mathematical derivations, deformation structures, and bounds derived from singularity theory is currently being finalized. These are strictly in the context of the Plamenevskaya-Starkston framework, which are different from the notes on mathematical understanding.
 
 ### 📝 Literature & Framework Notes
 * **[Section 1 - Introduction](Introductory_Notes.pdf)**
