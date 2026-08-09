@@ -20,11 +20,12 @@ This project explores the intersection of geometric topology and singularity the
 Below are the direct links to the individual files, papers, and calculations tracking my progress:
 
 ### 📄 Formal Summaries & Research Papers
-* **Coming Soon** – The comprehensive typeset written summary detailing mathematical derivations, deformation structures, and bounds derived from singularity theory is currently being finalized. These are strictly in the context of the Plamenevskaya-Starkston framework, which are different from the notes on mathematical understanding.
+* **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Part 1)](SS+EG+DG_TeX.pdf)**
 
 ### 📝 Literature & Framework Notes
 * **[Section 1 - Introduction](Introductory_Notes.pdf)**
 *  **[Section 2.1 - Resolutions & Smoothings](2.1_Notes.pdf)**
+*  **[Section 2.2 (Part 1) - Sandwiched Singularities, Extended Graphs, & Decorated Germs](2.2_Notes.pdf)**
 
 ### 🧮 Mathematical Understanding & Theory Tasks
 * **[Local Algebra and Isolated Singularities](LAIS_TeX.pdf)** 
