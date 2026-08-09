@@ -19,7 +19,7 @@ This project explores the intersection of geometric topology and singularity the
 
 Below are the direct links to the individual files, papers, and calculations tracking my progress:
 
-### 📄 Formal Summaries & Research Papers
+### 📄 Formal Summaries & Work
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Part 1)](SS+EG+DG_TeX.pdf)**
 
 ### 📝 Literature & Framework Notes
