@@ -22,6 +22,7 @@ Below are the direct links to the individual files, papers, and calculations tra
 ### 📄 Formal Summaries & Work
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Part 1)](SS+EG+DG_TeX.pdf)**
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Proposition 2.2)](2.2_Prop2_Notes.pdf)**
+* **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Proposition 2.4)](2.4_Prop2_Notes.pdf)**
 
 ### 📝 Literature & Framework Notes
 * **[Section 1 - Introduction](Introductory_Notes.pdf)**
