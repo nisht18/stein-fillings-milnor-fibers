@@ -24,6 +24,7 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Proposition 2.2)](2.2_Prop2_Notes.pdf)**
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Proposition 2.4)](2.2_Prop4_Notes.pdf)**
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Lemma 2.5)](2.2_Lem5_Notes.pdf)**
+* **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Remark 2.6)](2.2_Rem6_Notes.pdf)**
 
 ### 📝 Literature & Framework Notes
 * **[Section 1 - Introduction](Introductory_Notes.pdf)**
