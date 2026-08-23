@@ -25,11 +25,12 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Proposition 2.4)](2.2_Prop4_Notes.pdf)**
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Lemma 2.5)](2.2_Lem5_Notes.pdf)**
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Remark 2.6)](2.2_Rem6_Notes.pdf)**
+* **[De Jong–van Straten’s theory: Milnor fibers from Germ Deformations (Section 2.3)](2.3__Notes.pdf)**
 
 ### 📝 Literature & Framework Notes
 * **[Section 1 - Introduction](Introductory_Notes.pdf)**
-*  **[Section 2.1 - Resolutions & Smoothings](2.1_Notes.pdf)**
-*  **[Section 2.2 (Part 1) - Sandwiched Singularities, Extended Graphs, & Decorated Germs](2.2_Notes.pdf)**
+* **[Section 2.1 - Resolutions & Smoothings](2.1_Notes.pdf)**
+* **[Section 2.2 (Part 1) - Sandwiched Singularities, Extended Graphs, & Decorated Germs](2.2_Notes.pdf)**
 
 ### 🧮 Mathematical Understanding & Theory Tasks
 * **[Local Algebra and Isolated Singularities](LAIS_TeX.pdf)** 
