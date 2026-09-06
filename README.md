@@ -32,9 +32,9 @@ Below are the direct links to the individual files, papers, and calculations tra
 
 ### 📝 Literature & Framework Notes
 
-#### §1
-* **[Section 1 - Introduction](Introductory_Notes.pdf)**
-#### §2
+#### §1: Introduction
+* **[Introduction](Introductory_Notes.pdf)**
+#### §2: Sandwiched Singularities, Extended Graphs, and Decorated Germs
 * **[Section 2.1 - Resolutions & Smoothings](2.1_Notes.pdf)**
 * **[Section 2.2 (Part 1) - Sandwiched Singularities, Extended Graphs, & Decorated Germs](2.2_Notes.pdf)**
 
