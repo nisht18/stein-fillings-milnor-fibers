@@ -31,7 +31,10 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **[De Jong–van Straten’s theory: Milnor fibers from Germ Deformations (Section 2.3)](2.3__Notes.pdf)**
 
 ### 📝 Literature & Framework Notes
+
+#### §1
 * **[Section 1 - Introduction](Introductory_Notes.pdf)**
+#### §2
 * **[Section 2.1 - Resolutions & Smoothings](2.1_Notes.pdf)**
 * **[Section 2.2 (Part 1) - Sandwiched Singularities, Extended Graphs, & Decorated Germs](2.2_Notes.pdf)**
 
