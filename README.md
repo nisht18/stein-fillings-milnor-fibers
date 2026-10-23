@@ -30,10 +30,14 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Remark 2.6)](2.2_Rem6_Notes.pdf)**
 * **[De Jong–van Straten’s theory: Milnor fibers from Germ Deformations (Section 2.3)](2.3__Notes.pdf)**
 
+#### §3: Graphical Deformations of Curvettas yield Filllings
+*coming soon :)
+
 ### 📝 Literature & Framework Notes
 
 #### §1: Introduction
 * **[Introduction](Introductory_Notes.pdf)**
+
 #### §2: Sandwiched Singularities, Extended Graphs, and Decorated Germs
 * **[Section 2.1 - Resolutions & Smoothings](2.1_Notes.pdf)**
 * **[Section 2.2 (Part 1) - Sandwiched Singularities, Extended Graphs, & Decorated Germs](2.2_Notes.pdf)**
