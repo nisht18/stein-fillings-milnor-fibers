@@ -21,6 +21,12 @@ Below are the direct links to the individual files, papers, and calculations tra
 
 ### 📄 Formal Summaries & Work
 
+#### §4: The Lefschetz Fibration for the Artin Smoothing
+*coming soon :)
+
+#### §3: Graphical Deformations of Curvettas yield Filllings
+* **[Graphical deformations of curvettas yield fillings](3.1_Notes.pdf)**
+
 #### §2: Sandwiched Singularities, Extended Graphs, and Decorated Germs
 
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Part 1)](SS+EG+DG_TeX.pdf)**
@@ -29,9 +35,6 @@ Below are the direct links to the individual files, papers, and calculations tra
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Lemma 2.5)](2.2_Lem5_Notes.pdf)**
 * **[Sandwiched Singularities, Extended Graphs, and Decorated Germs (Remark 2.6)](2.2_Rem6_Notes.pdf)**
 * **[De Jong–van Straten’s theory: Milnor fibers from Germ Deformations (Section 2.3)](2.3__Notes.pdf)**
-
-#### §3: Graphical Deformations of Curvettas yield Filllings
-*coming soon :)
 
 ### 📝 Literature & Framework Notes
 
